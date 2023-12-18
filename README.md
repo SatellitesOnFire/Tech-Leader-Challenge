@@ -67,7 +67,7 @@ Teniendo estos datos, se debe programar una función en Python ``segmentacionDeI
 
 ### Input
 
-La cantidad de fuegos va a recibir esta función va a ser siempre menor o igual a $5000$. Cada fuego va a ser un diccionario con los siguientes datos: ``{id: string, x: float, y: float, time: string}``, donde además ``time`` es de la forma ``"YYYY-MM-DDTHH:MM"``. Además, está garantizado que $d$ y $t$ son mayores a $0$, y los ``id`` son distintos.
+La cantidad de fuegos va a recibir esta función va a ser siempre menor o igual a $2500$. Cada fuego va a ser un diccionario con los siguientes datos: ``{id: string, x: float, y: float, time: string}``, donde además ``time`` es de la forma ``"YYYY-MM-DDTHH:MM"``. Además, está garantizado que $d$ y $t$ son mayores a $0$, y los ``id`` son distintos.
 
 ### Output
 
